@@ -4,7 +4,7 @@ import time
 import random
 
 #Introduction. If you're confused, check README.md
-
+#checking something for Github
 print("\t~Instagram and Twitter Bot~")
 print("\n\n[+]Welcome! This is the fastest and easiest way to gain folloers on Instagram or Twitter.")
 
